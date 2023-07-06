@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao perfil do giovanifermiano
-😁
+## Bem-vindo(a) ao perfil do giovanifermiano😁
 
  <div>
    <a href="https://github.com/giovanifermiano
